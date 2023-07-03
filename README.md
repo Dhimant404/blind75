@@ -1,2 +1,2 @@
-# blind75
+# Blind-75
 This is my documentation of solving the blind 75 
